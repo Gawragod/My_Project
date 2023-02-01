@@ -1,2 +1,2 @@
 # My_Project
-A career portfolio
+A Data Analyst portfolio
